@@ -1,11 +1,13 @@
+```markdown
 layout: post
-title: ReSpeaker Core v2开发文档学习
-tags: Embedded system
+title: Hello World!
+tags: Hydrogen
 stickie: true
+```
 
 # ReSpeaker Core v2开发文档学习
 
-![image-20191221182130706](C:\Users\18125\AppData\Roaming\Typora\typora-user-images\image-20191221182130706.png)
+<img src="https://s2.ax1x.com/2019/12/21/QvhcAU.png" alt="image-20191221182130706" style="zoom: 80%;" />
 
 ① 3.5mm 耳机插孔
 

@@ -1,4 +1,4 @@
-title: 小麋鹿的个人主页 #博客标题
+title: 小麋鹿Elaine的个人主页 #博客标题
 description: 记录我的学习生活，可能会涉及一些计算机专业和英语上的分享。 #博客描述
 keywords: life,study,Embedded system,cs,English #博客关键字
 author: "Elaine Li"
@@ -12,7 +12,7 @@ url: "elaineli.cn" # change this to the base hostname & protocol for your site
 buildtime: "1514736000" #博客建立时的时间戳 可进入https://tool.lu/timestamp/将博客建立时的日期转换成时间戳
            #The timestamp at the time of blog establishment can be entered at https://tool.lu/timestamp/to convert the date at the time of blog establishment into a timestamp.
 
-PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议开启）
+PJAX: false #启用PJAX，会与评论系统冲突（如不用评论系统建议开启）
 
 paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"

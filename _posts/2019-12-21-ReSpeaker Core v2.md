@@ -1,3 +1,8 @@
+layout: post
+title: ReSpeaker Core v2开发文档学习
+tags: Embedded system
+stickie: true
+
 # ReSpeaker Core v2开发文档学习
 
 ![image-20191221182130706](C:\Users\18125\AppData\Roaming\Typora\typora-user-images\image-20191221182130706.png)

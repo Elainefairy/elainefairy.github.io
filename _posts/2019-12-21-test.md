@@ -1,3 +1,10 @@
+---
+layout: post
+title:ReSpeaker Core v2开发文档学习
+tags: Embedded system
+stickie: true
+---
+
 # ReSpeaker Core v2开发文档学习
 
 <img src="https://s2.ax1x.com/2019/12/21/QvhcAU.png" alt="image-20191221182130706" style="zoom: 80%;" />
